@@ -7,7 +7,7 @@ public class Tugas3 {
         int data;
         int[] a, b, c;
 
-        System.out.print("Masukkan Jumlah Testcase: ");
+        System.out.print("Masukan Jumlah Testcase: ");
         data = input.nextInt();
         a = new int[data];
         b = new int[data];
