@@ -7,9 +7,9 @@ public class Tabungan {
         this.saldo=saldo;
     }
 
-    public boolean ambilUang(int ambil){
-        if (ambil <= saldo){
-            saldo-=ambil;
+    public boolean ambilUang(int jumlah){
+        if (jumlah <= saldo){
+            saldo-=jumlah;
             return true;
         }else {
             return false;
