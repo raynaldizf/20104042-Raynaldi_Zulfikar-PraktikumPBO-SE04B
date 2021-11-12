@@ -1,7 +1,8 @@
-package Modul5.Tugas.Perbankan;
+package Modul5.Tugas;
 
-import Modul5.Tugas.Nasabah.Nasabah;
-import Modul5.Tugas.Tabungan.Tabungan;
+import Modul5.Tugas.Perbankan.Nasabah;
+import Modul5.Tugas.Perbankan.Tabungan;
+
 public class Main {
     public static void main(String[] args) {
         int tmp;

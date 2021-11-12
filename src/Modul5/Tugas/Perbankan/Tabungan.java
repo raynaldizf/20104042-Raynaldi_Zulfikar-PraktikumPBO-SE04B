@@ -1,4 +1,4 @@
-package Modul5.Tugas.Tabungan;
+package Modul5.Tugas.Perbankan;
 
 public class Tabungan {
     private int saldo;

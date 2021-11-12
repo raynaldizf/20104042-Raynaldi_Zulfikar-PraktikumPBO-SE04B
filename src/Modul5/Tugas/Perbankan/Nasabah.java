@@ -1,6 +1,5 @@
-package Modul5.Tugas.Nasabah;
+package Modul5.Tugas.Perbankan;
 
-import Modul5.Tugas.Tabungan.Tabungan;
 public class Nasabah {
     private String namaAwal;
     private String namaAkhir;
@@ -9,7 +8,6 @@ public class Nasabah {
     public Nasabah(String namaAwal, String namaAkhir){
         this.namaAwal=namaAwal;
         this.namaAkhir=namaAkhir;
-
     }
     public String getNamaAwal(){
         return namaAwal;
