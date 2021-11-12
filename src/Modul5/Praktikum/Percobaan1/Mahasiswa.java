@@ -1,4 +1,4 @@
-package Modul5.Praktikum.Percobaan1.Mahasiswa;
+package Modul5.Praktikum.Percobaan1;
 
 public class Mahasiswa {
     private int nrp;

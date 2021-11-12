@@ -1,7 +1,7 @@
 package Modul5.Praktikum;
 
-import Modul5.Praktikum.Percobaan1.Kelas.Kelas;
-import Modul5.Praktikum.Percobaan1.Mahasiswa.Mahasiswa;
+import Modul5.Praktikum.Percobaan2.Kelas;
+import Modul5.Praktikum.Percobaan1.Mahasiswa;
 
 public class Main {
     public static void main(String[] args) {

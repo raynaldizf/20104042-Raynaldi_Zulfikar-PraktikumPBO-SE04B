@@ -1,6 +1,6 @@
-package Modul5.Praktikum.Percobaan1.Kelas;
+package Modul5.Praktikum.Percobaan2;
 
-import Modul5.Praktikum.Percobaan1.Mahasiswa.Mahasiswa;
+import Modul5.Praktikum.Percobaan1.Mahasiswa;
 
 public class Kelas {
     private int kodekelas;
